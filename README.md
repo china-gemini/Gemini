@@ -1,6 +1,6 @@
 # Gemini AI 中文版：Gemini 2.5 Pro 国内使用指南~（支持 Gemini-2.5-pro，无需翻墙）
 
-> **更新时间：2025-09-21**     
+> **更新时间：2025-09-23**     
 
 全面体验 [**Gemini 中文版**](https://ai.lanjingai.org)，**国内直连，无需翻墙**，**支持 Gemini 2.5 Pro、Gemini 2.5 flash、Nano Banana 及中文版功能**   
 
